@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+
+}
+
+.contanier {
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar ul {
+    list-style: none;
+    text-align: right;
+
+    border-top: 4px #FF3E41 solid;
+    padding: 5px;
+
+
+
+}
+
+.navbar li {
+    display: inline;
+    margin: 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+}
+
+.navbar a:hover {
+    color: #fe9294;
+
+}
+
+.logo {
+    background-color: #FF3E41;
+    float: left;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    margin-top: -8px;
+    width: 80px;
+    padding: 10px;
+    margin-left: -5px;
+}
+
+.home {
+    background: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url("carousel-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 700px;
+    text-align: left;
+    color: white;
+    margin-top: -10px;
+}
+
+.text1 {
+    margin-left: 10%;
+    padding-top: 15%;
+}
+
+.text1 h3 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.text1 h1 {
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+.text1 p {
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+button {
+    text-align: center;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    border: none;
+    font-size: 16px;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.about {
+    margin: 10px;
+    text-align: center;
+
+}
+
+.text2 {
+    float: right;
+    text-align: left;
+    margin-right: 10%;
+}
+
+h4 {
+    color: #52cfed;
+    text-transform: uppercase;
+}
+
+.img1 {
+    width: 700px;
+    height: 300px;
+}
+
+.text3 {
+    text-align: left;
+    margin: 5%;
+    margin-left: 20%;
+    ;
+}
+
+.callus {
+    margin-left: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+span {
+    color: #FF3E41;
+    font-size: 24px;
+    margin: 5px;
+}
+
+.service {
+    width: 200px;
+    height: 100px;
+    border: 15px white solid;
+    margin: 10px;
+    scrollbar-shadow-color: rgb(245, 245, 245);
+}
+
+.SERVICES {
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+}
+
+.features {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.logo2 {
+    width: 50px;
+    height: 50px;
+    border: none;
+    float: left;
+    padding: 10px;
+    margin-left: -5px;
+
+}
+
+.img4 {
+    width: 500px;
+    height: 250px;
+    float: right;
+    margin-right: 15%;
+}
+
+.text4 {
+    text-align: left;
+    margin-left: 10%;
+}
+
+.text4 h1 {
+    font-size: 20px;
+}
+
+.text_logo {
+    text-align: left;
+    font-size: 14px;
+    margin-left: -12px;
+
+}
+
+.footer {
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+}
+
+.team {
+    width: 150px;
+    height: 200px;
+    border: 10px white solid;
+    margin-left: 15px;
+
+}
